@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/redrick/ruby_telesign.svg)](https://travis-ci.org/redrick/ruby_telesign)
+
 telesign
 =============
 
