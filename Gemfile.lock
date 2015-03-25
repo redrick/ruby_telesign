@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    telesign_lib (0.0.12)
+    telesign_lib (0.0.13)
       faraday (~> 0.9)
 
 GEM
