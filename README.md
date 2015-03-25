@@ -5,7 +5,7 @@ telesign
 
 Ruby TeleSign SDK
 
-example
+Example
 =============
 ```ruby
 require 'telesign'
